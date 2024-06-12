@@ -1,0 +1,64 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "nameJob": "Quét nhà",
+      "status": "false"
+    },
+    {
+      "id": 2,
+      "nameJob": "Giặt quần áo",
+      "status": "false"
+    },
+    {
+      "id": 3,
+      "nameJob": "Nấu cơm",
+      "status": "false"
+    },
+    {
+      "id": 4,
+      "nameJob": "Đá bóng",
+      "status": "false"
+    },
+    {
+      "id": 5,
+      "nameJob": "Đá cầu",
+      "status": "false"
+    },
+    {
+      "id": 6,
+      "nameJob": "Chơi game",
+      "status": "false"
+    },
+    {
+      "nameJob": "Nghỉ học",
+      "status": "false",
+      "id": 7
+    },
+    {
+      "nameJob": "Đi chơi",
+      "status": "false",
+      "id": 8
+    },
+    {
+      "nameJob": "Đi bơi",
+      "status": "false",
+      "id": 9
+    },
+    {
+      "nameJob": "Bài 1",
+      "status": "false",
+      "id": 10
+    },
+    {
+      "nameJob": "12",
+      "status": "false",
+      "id": 11
+    },
+    {
+      "nameJob": "213",
+      "status": "false",
+      "id": 12
+    }
+  ]
+}
